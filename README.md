@@ -29,10 +29,11 @@ Bachelor in Finance with Major Disciplines:<br>
 • 👉 Ability to work efficiently to meet demanding schedules<br>
 • 👉 Project Management skills<br>
 <br>
-<b>🙌🏻 Feel free to contact with Me on gyordanov94@abv.bg as also in:</b>
+<b>🙌🏻 Feel free to contact with Me on gyordanov94@abv.bg as also in:
 <p align="left">
 <a href="https://linkedin.com/in/georgi-yordanov-395114125/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="georgi yordanov" height="30" width="40" /></a>
 <a href="https://fb.com/georgi.yordanov.90" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="yordanoff georgi" height="30" width="40" /></a>
+ </b>
 </p>
 </b>
 </b>

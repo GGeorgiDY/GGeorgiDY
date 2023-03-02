@@ -4,21 +4,22 @@
 
 <h3><b>✨ About me in 30 sec ✨</b></h3>
 <p>📚 I graduated Tsenov Academy of Economics</p>
-<b>Specialty: Finance</b>
-<b>Major Disciplines:</b>
+Specialty: Finance<br>
+Major Disciplines:<br>
 - Investing<br>
 - Coorporate Finance<br>
 - Statistics<br>
 - Portfolio Management<br>
 - Risk Management<br>
-
-<p>📚 Currently studying at SoftUni Software University for a Python Web Developer</p>
+<br>
+<p>📚 Currently studying at SoftUni Software University for a Python Web Developer<br>
 - Python<br>
 - JS<br>
 - HTML & CSS<br>
 - mySQL<br>
 - Django<br>
 - Flask<br>
+  </p>
 
 <b>Fluent in two languages - Bulgarian, English</b><br>
 • 👉 Outstanding analytic and problem-solving skills<br>

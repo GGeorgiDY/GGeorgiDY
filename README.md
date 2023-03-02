@@ -8,11 +8,11 @@
 
 <b>Specialty: Finance</b>
 <b>Major Disciplines:</b>
-<p>- Investing, </p>
-<p>- Coorporate Finance, </p>
-<p>- Statistics, </p>
-<p>- Portfolio Management, </p>
-<p>- Risk Management</p>
+- Investing<br>
+- Coorporate Finance<br>
+- Statistics<br>
+- Portfolio Management<br>
+- Risk Management<br>
 
 <b>🌱 currently learn:</b>
 - Python<br>

@@ -1,5 +1,5 @@
 <h2>👋 Hi, I'm Georgi and I am taking a new professional direction </h2>
-<h3>👀 I’m interested in Web and Software Development</h3>
+<p>👀 I’m interested in Web and Software Development</p>
 <img align="right" alt="Coding" width ="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <h3><b>✨ About me in 30 sec ✨</b></h3>

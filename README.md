@@ -3,15 +3,15 @@
 <img align="right" alt="Coding" width ="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <h3><b>✨ About me in 30 sec ✨</b></h3>
-<p>📚 I graduated Tsenov Academy of Economics</p>
-Specialty: Finance<br>
-Major Disciplines:<br>
+<p>📚 I graduated Tsenov Academy of Economics<br>
+Bachelor in Finance with Major Disciplines:<br>
 - Investing<br>
 - Coorporate Finance<br>
 - Statistics<br>
 - Portfolio Management<br>
 - Risk Management<br>
 <br>
+ </p>
 <p>📚 Currently studying at SoftUni Software University for a Python Web Developer<br>
 - Python<br>
 - JS<br>

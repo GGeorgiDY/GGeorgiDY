@@ -1,4 +1,4 @@
-👋 # **Hi, I'm Georgi and I am taking a new professional direction **
+👋 <h1> Hi, I'm Georgi and I am taking a new professional direction </h1>
 
 👀 I’m interested in Web and Software Development
 

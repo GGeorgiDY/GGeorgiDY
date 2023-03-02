@@ -21,12 +21,12 @@
 - mySQL<br>
 
 <b>Fluent in two languages - Bulgarian, English</b>
-<p>• 👉 Outstanding analytic and problem-solving skills </p>
-<p>• 👉 Excellent time management skills </p>
-<p>• 👉 Effective communication skills </p>
-<p>• 👉 Ability to work well with others </p>
-<p>• 👉 Ability to work efficiently to meet demanding schedules </p>
-<p>• 👉 Project Management skills </p>
+• 👉 Outstanding analytic and problem-solving skills
+• 👉 Excellent time management skills
+• 👉 Effective communication skills
+• 👉 Ability to work well with others
+• 👉 Ability to work efficiently to meet demanding schedules
+• 👉 Project Management skills
 
 <b>🙌🏻 Feel free to contact with Me</b><br>
 <b>📫 How to reach me gyordanov94@abv.bg</b>

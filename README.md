@@ -12,17 +12,11 @@ Bachelor in Finance with Major Disciplines:<br>
 - Risk Management<br>
  </p>
 <p>📚 Currently studying at SoftUni Software University<br>
-<p>My finished courses:</p>
-- <a href="https://softuni.bg/certificates/details/124652/bccd545b">Programming Basics with Python - Jan 2022</a>
-- <a href="https://softuni.bg/certificates/details/149323/d16213b9">Programming Fundamentals with Python - Sep 2022</a>
-- <a href="https://softuni.bg/certificates/details/159348/25803f43">Python Advanced - Jan 2023</a>
-- Python<br>
-- JS<br>
-- HTML & CSS<br>
-- mySQL<br>
-- Django<br>
-- Flask<br>
-  </p>
+<p>My finished courses:
+- <a href="https://softuni.bg/certificates/details/124652/bccd545b">Programming Basics with Python - Jan 2022</a><br>
+- <a href="https://softuni.bg/certificates/details/149323/d16213b9">Programming Fundamentals with Python - Sep 2022</a><br>
+- <a href="https://softuni.bg/certificates/details/159348/25803f43">Python Advanced - Jan 2023</a><br>
+</p>
 
 <b>Fluent in two languages - Bulgarian, English</b><br>
 • 👉 Outstanding analytic and problem-solving skills<br>

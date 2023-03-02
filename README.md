@@ -1,4 +1,5 @@
-👋 Hi, I'm Georgi and I am taking a new professional direction
+** 👋 Hi, I'm Georgi and I am taking a new professional direction
+
 👀 I’m interested in Web and Software Development
 
 ✨ About me in 30 sec ✨

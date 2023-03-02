@@ -1,16 +1,31 @@
-### Hi there 👋
+👋 Hi, I'm Georgi and I am taking a new professional direction
+👀 I’m interested in Web and Software Development
 
-<!--
-**GGeorgiDY/GGeorgiDY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✨ About me in 30 sec ✨
+📚 I graduated Tsenov Academy of Economics
+📚 Currently studying at SoftUni Software University for a Python Web Developer
 
-Here are some ideas to get you started:
+Specialty: Finance
+Major Disciplines:
+- Investing, 
+- Coorporate Finance, 
+- Statistics, 
+- Portfolio Management, 
+- Risk Management
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 currently learn:
+- Python
+- JS
+- HTML & CSS
+- mySQL
+
+Fluent in two languages - Bulgarian, English
+• 👉 Outstanding analytic and problem-solving skills
+• 👉 Excellent time management skills
+• 👉 Effective communication skills
+• 👉 Ability to work well with others
+• 👉 Ability to work efficiently to meet demanding schedules
+• 👉 Project Management skills
+
+🙌🏻 Feel free to contact with Me
+📫 How to reach me gyordanov94@abv.bg

@@ -1,8 +1,8 @@
-👋 <h1> Hi, I'm Georgi and I am taking a new professional direction </h1>
+👋 <h2> Hi, I'm Georgi and I am taking a new professional direction </h2>
 
 <p>👀 I’m interested in Web and Software Development</p>
 
-<b>✨ About me in 30 sec ✨</b> 
+<h3><b>✨ About me in 30 sec ✨</b></h3>
 <p>📚 I graduated Tsenov Academy of Economics</p>
 <p>📚 Currently studying at SoftUni Software University for a Python Web Developer</p>
 

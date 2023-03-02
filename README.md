@@ -2,31 +2,31 @@
 
 👀 I’m interested in Web and Software Development
 
-✨ About me in 30 sec ✨
-📚 I graduated Tsenov Academy of Economics
-📚 Currently studying at SoftUni Software University for a Python Web Developer
+<b>✨ About me in 30 sec ✨</b> 
+📚 I graduated Tsenov Academy of Economics 
+📚 Currently studying at SoftUni Software University for a Python Web Developer 
 
-Specialty: Finance
-Major Disciplines:
+<b>Specialty: Finance</b>
+<b>Major Disciplines:</b>
 - Investing, 
 - Coorporate Finance, 
 - Statistics, 
 - Portfolio Management, 
 - Risk Management
 
-🌱 currently learn:
+<b>🌱 currently learn:</b>
 - Python
 - JS
 - HTML & CSS
 - mySQL
 
-Fluent in two languages - Bulgarian, English
-• 👉 Outstanding analytic and problem-solving skills
-• 👉 Excellent time management skills
-• 👉 Effective communication skills
-• 👉 Ability to work well with others
-• 👉 Ability to work efficiently to meet demanding schedules
-• 👉 Project Management skills
+<b>Fluent in two languages - Bulgarian, English</b>
+• 👉 Outstanding analytic and problem-solving skills 
+• 👉 Excellent time management skills 
+• 👉 Effective communication skills 
+• 👉 Ability to work well with others 
+• 👉 Ability to work efficiently to meet demanding schedules 
+• 👉 Project Management skills 
 
-🙌🏻 Feel free to contact with Me
-📫 How to reach me gyordanov94@abv.bg
+<b>🙌🏻 Feel free to contact with Me</b>
+<b>📫 How to reach me gyordanov94@abv.bg</b>

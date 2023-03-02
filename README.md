@@ -11,7 +11,7 @@ Bachelor in Finance with Major Disciplines:<br>
 - Portfolio Management<br>
 - Risk Management<br>
  </p>
-<p>📚 Currently studying at SoftUni Software University for a Python Web Developer<br>
+<p>📚 Currently studying at SoftUni Software University<br>
 - Python<br>
 - JS<br>
 - HTML & CSS<br>

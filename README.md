@@ -13,11 +13,12 @@ Bachelor in Finance with Major Disciplines:<br>
  </p>
 <p>📚 Currently studying at SoftUni Software University<br>
 <p>My finished courses:<br>
-- <a href="https://softuni.bg/certificates/details/168141/13b67100">Python OOP - Feb 2023</a><br>
-- <a href="https://softuni.bg/certificates/details/163367/3bbd82f1">HTML & CSS - Jan 2023</a><br>
-- <a href="https://softuni.bg/certificates/details/159348/25803f43">Python Advanced - Jan 2023</a><br>
-- <a href="https://softuni.bg/certificates/details/149323/d16213b9">Programming Fundamentals with Python - Sep 2022</a><br>
-- <a href="https://softuni.bg/certificates/details/124652/bccd545b">Programming Basics with Python - Jan 2022</a><br>
+- <a href="https://softuni.bg/certificates/details/170863/68138abe">JS Front-End - Apr 2023</a><br>
+- <a href="https://softuni.bg/certificates/details/168141/13b67100">Python OOP - Apr 2023</a><br>
+- <a href="https://softuni.bg/certificates/details/163367/3bbd82f1">HTML & CSS - Feb 2023</a><br>
+- <a href="https://softuni.bg/certificates/details/159348/25803f43">Python Advanced - Feb 2023</a><br>
+- <a href="https://softuni.bg/certificates/details/149323/d16213b9">Programming Fundamentals with Python - Dec 2022</a><br>
+- <a href="https://softuni.bg/certificates/details/124652/bccd545b">Programming Basics with Python - Feb 2022</a><br>
 </p>
 
 <b>Fluent in two languages - Bulgarian, English</b><br>

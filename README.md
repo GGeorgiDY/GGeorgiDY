@@ -13,6 +13,7 @@ Bachelor in Finance with Major Disciplines:<br>
  </p>
 <p>📚 Currently studying at SoftUni Software University<br>
 <p>My finished courses:<br>
+- <a href="https://softuni.bg/certificates/details/185078/cee9feca">Python Web Basics - August 2023</a><br>
 - <a href="https://softuni.bg/certificates/details/170863/68138abe">JS Front-End - Apr 2023</a><br>
 - <a href="https://softuni.bg/certificates/details/168141/13b67100">Python OOP - Apr 2023</a><br>
 - <a href="https://softuni.bg/certificates/details/163367/3bbd82f1">HTML & CSS - Feb 2023</a><br>

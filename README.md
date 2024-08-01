@@ -5,7 +5,7 @@
 <h3><b>✨ About me in 30 sec ✨</b></h3>
 <p>📚 Currently working as a RPA (Robotic Process Automation) Developer<br>
 <p>📚 I studied at the SoftUni Software University<br>
-<p>My finished courses:<br>
+My finished courses:<br>
 - <a href="https://softuni.bg/certificates/details/185078/cee9feca">Python Web Basics - August 2023</a><br>
 - <a href="https://softuni.bg/certificates/details/170863/68138abe">JS Front-End - Apr 2023</a><br>
 - <a href="https://softuni.bg/certificates/details/168141/13b67100">Python OOP - Apr 2023</a><br>
@@ -23,7 +23,9 @@ Bachelor in Finance with Major Disciplines:<br>
 - Risk Management<br>
  </p>
 
-<b>Fluent in two languages - Bulgarian, English</b><br>
+<p>📚<b>Fluent in two languages - Bulgarian, English</b><br>
+
+ <p>📚 Additional Skills:<br>
 • 👉 Outstanding analytic and problem-solving skills<br>
 • 👉 Excellent time management skills<br>
 • 👉 Effective communication skills<br>

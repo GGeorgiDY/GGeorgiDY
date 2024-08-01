@@ -11,7 +11,7 @@ Bachelor in Finance with Major Disciplines:<br>
 - Portfolio Management<br>
 - Risk Management<br>
  </p>
-<p>📚 Currently studying at SoftUni Software University<br>
+<p>📚 Currently working as a RPA (Robotic Process Automation) Developer<br>
 <p>My finished courses:<br>
 - <a href="https://softuni.bg/certificates/details/185078/cee9feca">Python Web Basics - August 2023</a><br>
 - <a href="https://softuni.bg/certificates/details/170863/68138abe">JS Front-End - Apr 2023</a><br>
@@ -30,7 +30,7 @@ Bachelor in Finance with Major Disciplines:<br>
 • 👉 Ability to work efficiently to meet demanding schedules<br>
 • 👉 Project Management skills<br>
 <br>
-<b>🙌🏻 Feel free to contact with Me on gyordanov94@abv.bg as also in:
+<b>🙌🏻 Feel free to contact with Me on gyordanovmail@gmail.com as also in:
 <p align="left">
 <a href="https://linkedin.com/in/georgi-yordanov-395114125/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="georgi yordanov" height="30" width="40" /></a>
 <a href="https://fb.com/georgi.yordanov.90" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="yordanoff georgi" height="30" width="40" /></a>

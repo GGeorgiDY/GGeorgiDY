@@ -3,8 +3,8 @@
 <img align="right" alt="Coding" width ="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <h3><b>✨ About me in 30 sec ✨</b></h3>
-<p>📚 Currently working as a RPA (Robotic Process Automation) Developer<br>
-<p>📚 I studied at the SoftUni Software University<br>
+<p>📚 <b>Currently working as a RPA (Robotic Process Automation) Developer (10.2023 - present)</b><br>
+<p>📚 <b>I studied at the SoftUni Software University</b><br>
 My finished courses:<br>
 - <a href="https://softuni.bg/certificates/details/185078/cee9feca">Python Web Basics - August 2023</a><br>
 - <a href="https://softuni.bg/certificates/details/170863/68138abe">JS Front-End - Apr 2023</a><br>
@@ -14,7 +14,7 @@ My finished courses:<br>
 - <a href="https://softuni.bg/certificates/details/149323/d16213b9">Programming Fundamentals with Python - Dec 2022</a><br>
 - <a href="https://softuni.bg/certificates/details/124652/bccd545b">Programming Basics with Python - Feb 2022</a><br>
 </p>
-<p>📚 I graduated Tsenov Academy of Economics<br>
+<p>📚 <b>I graduated Tsenov Academy of Economics</b><br>
 Bachelor in Finance with Major Disciplines:<br>
 - Investing<br>
 - Coorporate Finance<br>
@@ -23,9 +23,9 @@ Bachelor in Finance with Major Disciplines:<br>
 - Risk Management<br>
  </p>
 
-<p>📚<b>Fluent in two languages - Bulgarian, English</b><br>
+<p>📚 <b>Fluent in two languages - Bulgarian, English</b><br>
 
- <p>📚 Additional Skills:<br>
+<p>📚 <b>Additional Skills:</b><br>
 • 👉 Outstanding analytic and problem-solving skills<br>
 • 👉 Excellent time management skills<br>
 • 👉 Effective communication skills<br>
